@@ -65,7 +65,7 @@ tavily_key = _load_key("TAVILY_API_KEY", "~/.tavily_api_key")
 
 if GEMINI_AVAILABLE and gemini_key:
     genai.configure(api_key=gemini_key)
-    gemini_model = genai.GenerativeModel("gemini-2.0-flash")
+    gemini_model = genai.GenerativeModel("gemini-3.8-flash")
     logger.info("⚖️ Gemini: AKTIVNÍ")
 else:
     gemini_model = None
