@@ -1,11 +1,60 @@
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
+Vakuova Mincovna & Transkomunikator (Web 4.23 Ecosystem)
+Copyright (C) 2026 Pan Jeskyne (Pj) / Rebirth Phoenix Foundation Trust
 
-Copyright 2026 Pan Jeskyně / Rebirth Phoenix Foundation
+=============================================================================
+DUAL LICENSE (GPL-3.0 / MIT COMPATIBLE / COMMERCIAL TIER)
+=============================================================================
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+This software ecosystem is available under two distinct licenses:
 
-    http://www.apache.org/licenses/LICENSE-2.0
+1. OPEN & SOVEREIGN TIER:
+   - GNU GENERAL PUBLIC LICENSE Version 3 (GPL-3.0)
+     with MIT-compatible access for non-profit and educational research.
+   - For open-source, non-commercial use, and free perpetual accessibility 
+     for the ~500 million deaf and blind individuals worldwide.
+
+2. COMMERCIAL TIER (Sovereign Flat-Rate: 111 CZK / EUR equivalent):
+   - For commercial use, proprietary closed-source integration, enterprise SaaS
+     without GPL disclosure obligations, and professional streamer tooling.
+   - Zero-token-metering policy: flat rate per node/streamer without exploitation.
+
+=============================================================================
+LICENSE 1: GNU GENERAL PUBLIC LICENSE Version 3
+=============================================================================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+=============================================================================
+LICENSE 2: COMMERCIAL TIER TERMS
+=============================================================================
+
+For commercial use, redistribution in proprietary products, or operation
+without GPL-3.0 obligations:
+  - Use in proprietary/closed-source enterprise workflows
+  - SaaS deployment without mandatory source disclosure
+  - Hardware & OEM integration (Jetson Orin Nano, Fujitsu Esprimo, Trezor)
+  - Priority formal verification audit guarantees & Musado Shielding
+
+To obtain commercial authorization:
+  Author: Pan Jeskyne (Pj)
+  Core: Asterisk / Maximus Gauntlet / Panoramisk / HusGraal
+  Organization: Rebirth Phoenix Foundation Trust
+
+=============================================================================
+STANDARD 700: CONSERVATION OF ENERGY & VALUE
+=============================================================================
+
+  1 MINCE = 12 gramu stribra (Ag 999/1000)
+  Formalne overeno matematickym aparatem Ada/SPARK 2022.
+  Invariant +1 zachovan: Spalena energie plynu a solarniho fotonu 
+  pretavena do trvale vakuove zastavy bez dluhove inflace.
